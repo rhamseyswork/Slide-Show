@@ -5,7 +5,7 @@
   "description": "Slide show",
   "main": "index.js",
   "type": "module",
-  "_comment" : "//npm install gh-pages --save-dev",
+  "_comment": "//npm install gh-pages --save-dev",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "test-dev": "test",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/rhamseyswork/Slide-Show#readme",
   "dependencies": {
-    "dotenv": "^16.4.4",
+    "dotenv": "^16.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.1",
